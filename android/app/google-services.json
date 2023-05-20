@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812066737077",
+    "project_id": "deepsight-notification",
+    "storage_bucket": "deepsight-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812066737077:android:9c27cc88f90a0d1874a7fc",
+        "android_client_info": {
+          "package_name": "com.deepsightailabs.deepsight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812066737077-54lbd05dic5koil8a0f7kphb0rsn93df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVgCJVP4aACISU1eemNjtYzs6N3glmbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812066737077-54lbd05dic5koil8a0f7kphb0rsn93df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
